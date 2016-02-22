@@ -1,0 +1,33 @@
+tagName
+{
+    style-attribute1: someValue;
+    style-attribute2: someValue;
+}
+
+someOtherTag
+{
+    style-attribute1: someValue;
+    style-attribute2: someValue;
+}
+
+body
+{
+    background-image: url(http://i.imgur.com/Gcbq2Ql.gif);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+p
+{
+    background-color: red;
+    color: white;
+    font-family: arial;
+    font-size: 22pt;
+}
+
+a
+{
+    background-color: blue;
+    color: red;
+}
